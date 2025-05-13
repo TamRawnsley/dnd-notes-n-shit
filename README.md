@@ -1,1 +1,1 @@
-# dnd-notes-n-shit
+# DnD notes n shit
