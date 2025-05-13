@@ -1,3 +1,3 @@
 - Lich
 - Hourglass phylactery
-- 
+- Watches specific player from afar
