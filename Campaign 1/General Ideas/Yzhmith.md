@@ -1,2 +1,3 @@
 - Lich
+- Hourglass phylactery
 - 
