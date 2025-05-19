@@ -108,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stuff/Campaign 1/General Ideas/Yzhmith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Yzhmith"
+              "title": "Outgoing links"
             }
           },
           {
@@ -144,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "af9550141a7bb32c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "192185bd4b1417de",
+  "active": "7538bb5d381b2fb7",
   "lastOpenFiles": [
     "README.md",
     "Campaign 1/Session Notes/Session 1.md",
